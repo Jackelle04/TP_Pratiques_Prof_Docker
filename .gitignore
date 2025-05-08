@@ -1,0 +1,17 @@
+# Environnements
+fastapi1/
+venv/
+.env
+.env.local
+
+# Docker
+docker-compose.override.yml
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+.idea/
